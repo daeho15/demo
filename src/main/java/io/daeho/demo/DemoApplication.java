@@ -6,9 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
-	}
+    public static void main(String[] args) {
 
-}ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfqpf5zSxBMIk6uCTNXozTlnNgliaUEaUGRFWEUSn+A8BCDXI7gVq4lDSwJ1ZZR4haE7h9OBH2kcceM6A/q7SdLBNlTs0xWyR96zy8HmRBjjPTCgu53U+1VYfB3Amr9s9zumj6xfndC3GA7x4viKvL2YBWsgNLKdzyX5z319PbuBWC/34c8Wu4u60TSXp9pmFS0TFdZYr8qMsRvDyjAyFSRbiWm0SH1mOmovTBGxmVNUPPxwx0S4KRfRSaOhrsGhLXN7nR4wfnnd/Up4+K2xcmdmhL1tx3N3L6RDJApyGMybeZcYGt0mJ5yksq99kXgqggA9NauYlPW+kQUdHpfyv50aBl6ONuIzPitX+DMiK6XSyPMeqqFz87IVKZR0aaWb1lHU5eWrTcmqwPz1pofeVBM5Bkf+bz5cFyfap/K7AGa80tdgH45Jk0n77AktcbZmj73DzZOuT1H2nIi+aUPvy8ZGyOl3AdgkAnfWpn/G7TQuVUxRg98Vj4QvSsMjgQtRc= daeho@daehoX1C
-
+        SpringApplication.run(DemoApplication.class, args);
+    }
+}
